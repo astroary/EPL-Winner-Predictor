@@ -40,3 +40,6 @@ To account for the extreme class imbalance in league winner prediction, we used:
 * **Aryansingh Chauhan** - Data Collection & Curation
 * **Shashank Singh** - Modeling & Predictions
 * **Soham Kaje** - EDA & Visualizations
+
+CS 441: Applied ML, Prof. Derek Hoiem, Fall 2025
+University of Illinois Urbana-Champaign
